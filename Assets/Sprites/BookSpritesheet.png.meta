@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 964086e7192799c4caad36acba6e536f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2206698791271787822
+    second: BookSpritesheet_0
+  - first:
+      213: 933613719275622144
+    second: BookSpritesheet_1
+  - first:
+      213: -2925280852744664093
+    second: BookSpritesheet_2
+  - first:
+      213: 1014014783246742916
+    second: BookSpritesheet_3
+  - first:
+      213: 7774748706063531351
+    second: BookSpritesheet_4
+  - first:
+      213: 7011024781553865907
+    second: BookSpritesheet_5
+  - first:
+      213: -4977790650663942557
+    second: BookSpritesheet_6
+  - first:
+      213: 3033961387654573760
+    second: BookSpritesheet_7
+  - first:
+      213: 969881465775419808
+    second: BookSpritesheet_8
+  - first:
+      213: -5580003293444493934
+    second: BookSpritesheet_9
+  - first:
+      213: 1883134369229673971
+    second: BookSpritesheet_10
+  - first:
+      213: -9052774736751733282
+    second: BookSpritesheet_11
+  - first:
+      213: -1085606424148392040
+    second: BookSpritesheet_12
+  - first:
+      213: 790473590842862064
+    second: BookSpritesheet_13
+  - first:
+      213: -3070587766079505008
+    second: BookSpritesheet_14
+  - first:
+      213: -1037490197943680108
+    second: BookSpritesheet_15
+  - first:
+      213: 586843268759196677
+    second: BookSpritesheet_16
+  - first:
+      213: 5502549911688794562
+    second: BookSpritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BookSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1309
+        width: 338
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de90cebd4cf9e10800000000000000
+      internalID: 2206698791271787822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 194
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fcade2bbcd4fc00800000000000000
+      internalID: 933613719275622144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1311
+        width: 339
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb07ef20905767d0800000000000000
+      internalID: -2925280852744664093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1312
+        width: 337
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ba68a211821e00800000000000000
+      internalID: 1014014783246742916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1001
+        width: 339
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d38da71c475eb60800000000000000
+      internalID: 7774748706063531351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1006
+        width: 339
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49aff84e92c4160800000000000000
+      internalID: 7011024781553865907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1009
+        width: 338
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3664ae4d6c55beab0800000000000000
+      internalID: -4977790650663942557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 349
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cee665becbca1a20800000000000000
+      internalID: 3033961387654573760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 746
+        width: 338
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a177c1fd06b57d00800000000000000
+      internalID: 969881465775419808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 744
+        width: 338
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d2bb89198df82b0800000000000000
+      internalID: -5580003293444493934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 486
+        width: 339
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f593464bbc322a10800000000000000
+      internalID: 1883134369229673971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 487
+        width: 339
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5584037551e5280800000000000000
+      internalID: -9052774736751733282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 284
+        width: 339
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92482fa8358fa00800000000000000
+      internalID: 790473590842862064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 258
+        width: 350
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dbb2702b41365d0800000000000000
+      internalID: -3070587766079505008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 195
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4930e9d69281a91f0800000000000000
+      internalID: -1037490197943680108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 198
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504983df7d2e42800800000000000000
+      internalID: 586843268759196677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e74e6e2b41541f84caeed2ea2a0171af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BookSpritesheet_0: 2206698791271787822
+      BookSpritesheet_1: 933613719275622144
+      BookSpritesheet_10: 1883134369229673971
+      BookSpritesheet_11: -9052774736751733282
+      BookSpritesheet_12: -1085606424148392040
+      BookSpritesheet_13: 790473590842862064
+      BookSpritesheet_14: -3070587766079505008
+      BookSpritesheet_15: -1037490197943680108
+      BookSpritesheet_16: 586843268759196677
+      BookSpritesheet_17: 5502549911688794562
+      BookSpritesheet_2: -2925280852744664093
+      BookSpritesheet_3: 1014014783246742916
+      BookSpritesheet_4: 7774748706063531351
+      BookSpritesheet_5: 7011024781553865907
+      BookSpritesheet_6: -4977790650663942557
+      BookSpritesheet_7: 3033961387654573760
+      BookSpritesheet_8: 969881465775419808
+      BookSpritesheet_9: -5580003293444493934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
